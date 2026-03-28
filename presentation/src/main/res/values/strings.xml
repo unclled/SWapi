@@ -1,0 +1,24 @@
+<resources>
+    <string name="archives_title">Archives</string>
+    <string name="loading_title">LOADING</string>
+    <string name="loading_data_msg">[ ESTABLISHING DATALINK… ]</string>
+    <string name="error_detected">SYSTEM // ERROR_DETECTED</string>
+    <string name="retry_connection">RETRY_CONNECTION</string>
+    <string name="search_hint">Query databank…</string>
+    <string name="search_input_hint">Search by name…</string>
+    <string name="back_desc">Back</string>
+
+    <string name="biometric_report">SYS.BIO_REPORT</string>
+    <string name="archive_appearances">ARCHIVE_APPEARANCES</string>
+    <string name="homeworld">HOMEWORLD</string>
+    <string name="birth_year">BIRTH_YEAR</string>
+    <string name="species_label">SPECIES</string>
+    <string name="height_label">HEIGHT</string>
+    <string name="mass_label">MASS</string>
+    <string name="status_active">// STATUS: ACTIVE</string>
+    <string name="unknown">unknown</string>
+    <string name="unknown_abbr">unk</string>
+
+    <string name="loading_value">LOADING…</string>
+    <string name="height_format">%1$s cm</string>
+</resources>
